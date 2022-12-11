@@ -19,7 +19,7 @@ import streamlit as st
 print("Hello World")
 
 st.set_page_config(layout="wide")
-st.title("Test title")
+st.title("Test title (Pickle test)")
 
 start_of_extraction = time.time()
 
